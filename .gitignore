@@ -1,0 +1,38 @@
+# Simulation outputs
+sim
+simv*
+*.vcd
+*.log
+*.out
+*.wlf         # ModelSim waveform file
+*.vvp         # Icarus Verilog compiled simulation
+*.fst         # Fast waveform file (GTKWave)
+
+# Temporary work directories (ModelSim/QuestaSim)
+work/
+transcript
+vsim.wlf
+modelsim.ini
+*.ucdb
+*.mti
+*.db
+
+# Compilation artifacts
+*.o
+*.obj
+*.bin
+*.elf
+
+# Backup/Swap files
+*~
+*.swp
+*.bak
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# IDEs/editors
+.vscode/
+.idea/
+*.code-workspace
