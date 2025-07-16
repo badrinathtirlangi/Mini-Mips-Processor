@@ -166,7 +166,3 @@ This will convert `assembly.txt` to binary and save it in `testbench/instruction
 ## Contributing
 
 This is an educational project. Feel free to use and modify the code for learning purposes.
-
-## License
-
-This project is part of the CS220: Computer Architecture coursework at IIT Kanpur and should be used in accordance with academic integrity policies. 
